@@ -1,14 +1,19 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Evan Koch
+email: evankoch@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a recent graduate of the Ruby on Rails Engineering course at The Iron Yard Atlanta.  
+I have a background in information technology, business systems and sales, 
+where I've alwyas been an adept computer USER.  Now, I'm pursuing
+my passion to be a creator, designer, software engineer -- I'm a web developer. 
+
+My technical and design experience is concentrated from January, 2015, to date.  That experience
+is largely with Ruby on Rails, although my experience so far has given me the confidence
+to explore other web-development technologies and fundamentals.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://evo21.github.io/" # the base hostname & protocol for your site
+twitter_username: evankkoch
+github_username:  evo21
 
 # Build settings
 markdown: kramdown
