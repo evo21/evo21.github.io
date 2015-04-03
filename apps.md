@@ -12,7 +12,7 @@ These repos were created throughout the Ruby on Rails Engineering bootcamp durin
 ## Ruby on Rails: Web apps, projects
 
 **[ClusterCard.net](https://github.com/evo21/video_card)**
--- *Deployed [HERE](http://www.clustercard.net)*
+-- *Deployed [HERE](http://clustercard.net)*
 > This is a responsive site, 3-week project that I presented at the Iron Yard Demo Day: Create and collect smart-phone/browser camera videos, by adding your own or inviting Facebook contributors--to create a virtual greeting card.<br>
 * Resources Used: Rails, Bootstrap, Javascript, JQuery, mailers
 
