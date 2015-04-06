@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm pursuing my passion to be a creator, designer, developer.<br>Seeking a SE-1/junior
   web development position.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://evo21.github.io/" # the base hostname & protocol for your site
+url: "http://evankoch.com/" # the base hostname & protocol for your site
 twitter_username: evankkoch
 github_username:  evo21
 
