@@ -1,10 +1,10 @@
 # Site settings
-title: Evan Koch - Web Developer
+title: Evan Koch - Ruby/Rails Web Developer
 email: evankoch@gmail.com
 linkedin: evankoch
 description: > # this means to ignore newlines until "baseurl:"
-  As a recent graduate of the Ruby on Rails Engineering course at The Iron Yard Atlanta,
-  I'm pursuing my passion to be a creator, designer, developer--actively seeking a SE-1/junior
+  As a recent graduate of the Rails Engineering course at The Iron Yard Atlanta,
+  I'm pursuing my passion to be a Ruby on Rails engineer--actively seeking a SE-1/junior
   web development position.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://evankoch.com/" # the base hostname & protocol for your site
