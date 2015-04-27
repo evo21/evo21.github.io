@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects/Apps
+title: Projects
 permalink: /apps/
 ---
 
@@ -8,8 +8,6 @@ permalink: /apps/
 * Index to repositories that show the evolution of my development experience at The Iron Yard-ATL
 
 These repos were created throughout the Ruby on Rails Engineering bootcamp during the first quarter of 2015.
-
-## Ruby on Rails: Web apps, projects
 
 **[ClusterCard.net](https://github.com/evo21/video_card)**
 -- *Deployed [HERE](http://clustercard.net)*
@@ -28,22 +26,3 @@ These repos were created throughout the Ruby on Rails Engineering bootcamp durin
 
 **[Connect4](https://github.com/evo21/connect4)**
 > Command line views and Ruby game logic: 'Connect Four' game.
-
-## Exercises
-
-**[Shout House](https://github.com/evo21/shouthouse)**
-> Pair programming assignment to create a Twitter-like app (first Rails app) & practice with Git to fix merge conflicts
-
-**[ETSY PAGE](https://github.com/evo21/etsy_search)**
-> First-run at HTML and CSS within Rails project
-
-**[TooDoo App](https://github.com/evo21/toodoo)**
-> Simple 'To Do' app using Camping framework - create, edit, delete ToDo's
-
-**[Labs](https://github.com/evo21/labs)**
-> First 2 Weeks @ Iron Yard: Daily HW exercises to develop and practice with Ruby: TicTacToe, 'Bad Dudes' (an Adventure-style text game, First Intro to Camping framework [CRUD])
-
-**[Guessr](https://github.com/evo21/guessr)**
-> Exercise to create a collection of Ruby guessing games: 'Guess a #: 1-100' & 'Hangman'
-
-## Other
